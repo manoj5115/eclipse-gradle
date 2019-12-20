@@ -1,0 +1,3 @@
+rootProject.name = 'spring3-main'
+
+include ':spring3-annotations', ':spring3-compiler'
